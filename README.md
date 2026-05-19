@@ -1,7 +1,7 @@
 # 📍 Live Location Sharing App
 
 A real-time live location sharing web application built using **Node.js, Express, Socket.IO, and Leaflet.js**.
-Users can generate a unique shareable link and allow others to track their live location on a map.
+Users can generate a unique shareable link and allow others to track their live location on a map. 
 
 ---
 
